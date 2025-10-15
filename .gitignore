@@ -1,7 +1,3 @@
-# personal testings
-data/
-scripts/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -106,3 +102,8 @@ ENV/
 
 # pycharm
 .idea
+
+# personal testings
+data/
+scripts/
+.DS_Store
